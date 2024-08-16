@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yadvsudha37@gmail.com**
 
-- ⚡ Fun fact **I am a Deep Thinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
