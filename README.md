@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Many Tools and Technologies**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, React.js, Node.js , Express.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, React.js, Next.js, Node.js , Express.js**
 
 - 📫 How to reach me **yadvsudha37@gmail.com**
 
